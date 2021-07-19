@@ -1,0 +1,10 @@
+7. Reverse Integer
+
+x = 321 return 回傳x
+
+  class Solution(object):
+      def reverse(self, x):
+          x = 321
+          return x
+       
+       
